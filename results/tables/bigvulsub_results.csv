@@ -1,2 +1,2 @@
-dataset,method,best_threshold,accuracy,precision,recall,f1,fpr,fnr,mcc,balanced_accuracy,g_mean,roc_auc,pr_auc,tn,fp,fn,tp
+dataset,method,best_threshold,accuracy,precision,recall,f1-score,fpr,fnr,mcc,balanced_accuracy,g_mean,roc_auc,pr_auc,tn,fp,fn,tp
 Big-Vulsub,MetaVul,0.42,0.9529,0.7767,0.4706,0.5861,0.0103,0.5294,0.5826,0.7301,0.6824,0.8757,0.5972,2207,23,90,80
