@@ -1,0 +1,2 @@
+dataset,method,best_threshold,accuracy,precision,recall,f1,fpr,fnr,mcc,balanced_accuracy,g_mean,roc_auc,pr_auc,tn,fp,fn,tp
+HY-ALL,MetaVul,0.7,0.9802,0.8569,0.8828,0.8697,0.0119,0.1172,0.8590,0.9355,0.9340,0.9813,0.9193,11664,141,112,844
