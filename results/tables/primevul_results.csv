@@ -1,2 +1,2 @@
-dataset,method,best_threshold,accuracy,precision,recall,f1,fpr,fnr,mcc,balanced_accuracy,g_mean,roc_auc,pr_auc,tn,fp,fn,tp
+dataset,method,best_threshold,accuracy,precision,recall,f1-score,fpr,fnr,mcc,balanced_accuracy,g_mean,roc_auc,pr_auc,tn,fp,fn,tp
 PrimeVul,MetaVul,0.65,0.7467,0.3664,0.9444,0.5280,0.2882,0.0556,0.4812,0.8281,0.8199,0.8826,0.5088,363,147,5,85
