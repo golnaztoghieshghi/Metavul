@@ -1,6 +1,6 @@
-# MetaVul: A Meta-Learning Ensemble Framework for Source Code Vulnerability Detection
+# MetaVul: A Novel Meta-Learning Ensemble Framework with CodeBERT for Source Code Vulnerability Detection 
 
-This repository contains the source code and experimental data for the paper **"MetaVul: A Meta-Learning Ensemble Framework for Source Code Vulnerability Detection"**.
+This repository contains the source code and experimental data for the paper **"MetaVul: A Novel Meta-Learning Ensemble Framework with CodeBERT for Source Code Vulnerability Detection "**.
 
 ## Overview
 
