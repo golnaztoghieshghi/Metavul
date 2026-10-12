@@ -1,4 +1,4 @@
-dataset,method,best_threshold,accuracy,precision,recall,f1,fpr,fnr,mcc,balanced_accuracy,g_mean,roc_auc,pr_auc,tn,fp,fn,tp
+dataset,method,best_threshold,accuracy,precision,recall,f1-score,fpr,fnr,mcc,balanced_accuracy,g_mean,roc_auc,pr_auc,tn,fp,fn,tp
 BE-ALL,MetaVul,0.10,0.9890,0.9635,0.8859,0.9231,0.0027,0.1141,0.9181,0.9416,0.9400,0.9707,0.9393,1846,5,17,132
 RM-ALL,MetaVul,0.30,0.9904,1.0000,0.7202,0.8373,0.0000,0.2798,0.8445,0.8601,0.8487,0.9741,0.8415,5457,0,54,139
 HY-ALL,MetaVul,0.70,0.9802,0.8569,0.8828,0.8697,0.0119,0.1172,0.8590,0.9355,0.9340,0.9813,0.9193,11664,141,112,844
