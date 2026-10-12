@@ -27,7 +27,7 @@ Each CSV file contains the following metrics:
 | `accuracy` | Overall accuracy |
 | `precision` | Precision (positive predictive value) |
 | `recall` | Recall (sensitivity, true positive rate) |
-| `f1` | F1-score |
+| `f1-score` | F1-score |
 | `fpr` | False Positive Rate |
 | `fnr` | False Negative Rate |
 | `mcc` | Matthews Correlation Coefficient |
