@@ -49,12 +49,10 @@ src/main.py
 ```
 The script will generate the CSV files in this directory.
 
-Notes
+## Notes
+
 All metrics are reported as decimal values (e.g., 0.9890 = 98.90%).
 
 The best threshold was selected by optimizing a weighted combination of F1-score and recall.
 
 Class weighting (power = 0.7) and combined Focal + Dice loss were used to handle class imbalance.
-
-Contact
-For questions about these results, please open an issue on GitHub or contact the corresponding author.
